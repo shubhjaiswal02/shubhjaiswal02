@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on a Chat-App.<br>👯 I’m looking to collaborate on Web Development projects.<br>🤝 I’m looking for help with Machine Learning models to integrate with Webapps.<br>🌱 I’m currently learning MERN stack and Machine learning.<br>💬 Ask me about Data Structures and Algorithms, Web Development.<br>⚡ Fun fact : Solve errors to find errors.
 
+![](https://komarev.com/ghpvc/?username=shubhjaiswal02&base=1210)
+
 
 ## 🌐 Socials:
 <a href="https://discord.gg/|shubh|#0326" target="_blank">
